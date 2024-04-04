@@ -1,0 +1,32 @@
+h1{
+    margin: 20px;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    align-items: center;
+}
+.images{
+    margin-top: 50px;
+}
+.payment{
+    /* background-color: antiquewhite; */
+    width: 25%;
+    height: 90%;
+    border: 2px solid #d8d4d4;
+    border-radius: 5px;
+}
+input{
+    width: 100%;
+}
+.button{
+    display: flex;
+    margin-top: 20px;
+}
+.paybtn{
+    height: 50px;
+    width: 150px;
+    margin: 10px;
+    cursor: pointer;
+}
